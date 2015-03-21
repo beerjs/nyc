@@ -1,5 +1,7 @@
 # BeerJS NYC
 
+[![Join the chat at https://gitter.im/beerjs/nyc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/beerjs/nyc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Don't worry, don't worry, I'm a native. It's okay if you aren't and it's okay if you are! The all 
 new NYC chapter is all about _real_ social networking amongst likeminded individuals with a 
 passion for JavaScript and knowledge sharing.
