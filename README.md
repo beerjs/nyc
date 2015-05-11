@@ -25,4 +25,4 @@ Submit a Pull Request or create an Issue. Join us on Gitter for even quicker hel
 ## Organizers
 
 * Michael Hertzberg ([GitHub](https://github.com/moimikey), [Twitter](https://twitter.com/moimikey))
-* Alex Burgos ([GitHub](https://github.com/alexburgos), [Twitter](https://twitter.com/_aburgos_)
+* Alex Burgos ([GitHub](https://github.com/alexburgos), [Twitter](https://twitter.com/_aburgos_))
