@@ -14,7 +14,7 @@ date and location changes.
 
 ## Want to help?
 
-Submit a Pull Request or create an Issue.
+Submit a Pull Request or create an Issue. Join us on Gitter for even quicker help!
 
 ## Why GitHub?
 
@@ -24,4 +24,5 @@ Submit a Pull Request or create an Issue.
 
 ## Organizers
 
-* Michael Hertzberg ([GitHub](https://github.com/moimikey), [Facebook](https://facebook.com/moimikey))
+* Michael Hertzberg ([GitHub](https://github.com/moimikey), [Twitter](https://twitter.com/moimikey))
+* Alex Burgos ([GitHub](https://github.com/alexburgos), [Twitter](https://twitter.com/_aburgos_)
