@@ -1,15 +1,16 @@
 # BeerJS NYC
-
-# WE'RE ON SLACK NOW!
-Hello new or current beer s! This is a short public announcement that we've switched from Gitter to Slack!
-
-## Join BeerJS on Slack
-https://beerjs-slack-invite.herokuapp.com/
-> don't forget to `/join #nyc`>>!
-
 Don't worry, don't worry, I'm a native. It's okay if you aren't and it's okay if you are! The all 
 new NYC chapter is all about _real_ social networking amongst likeminded individuals with a 
 passion for JavaScript and knowledge sharing.
+
+---
+
+# WE'RE ON SLACK NOW!
+Hello new or current beer enthusiast! This is a short public announcement that we've switched from Gitter to Slack!
+
+## Join BeerJS on Slack
+https://beerjs-slack-invite.herokuapp.com/
+(don't forget to `/join #nyc`!)
 
 ## Want to join?
 
